@@ -1,4 +1,5 @@
 {
+	"server":{
 	"serverurl": "https://auto14.ssdevrd.com",
 
 	"gid": "ka",
@@ -6,4 +7,6 @@
 	"un": "ka",
 
 	"pw": "ka"
+	}
+	
 }
